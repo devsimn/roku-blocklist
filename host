@@ -1,4 +1,3 @@
-api2.sr.roku.com
 0.0.0.0 1.1iiinilliberty.logs.roku.com
 0.0.0.0 1111nilliberty.logs.roku.com
 0.0.0.0 111inilliberty.logs.roku.com
@@ -69,11 +68,14 @@ adtelligent.com
 amarillo.logs.roku.com
 amoeba-plus.web.roku.com
 amoeba.web.roku.com
+api.rpay.roku.com
+api2.sr.roku.com
 assets.sr.roku.com
 austin.logs.roku.com
 benjamin.logs.roku.com
 bryan.logs.roku.com
 camden.logs.roku.com
+captive.roku.com
 cloudservices.roku.com
 configsvc.cs.roku.com
 control.tvinteractive.tv
@@ -90,6 +92,7 @@ hereford.logs.roku.com
 i.ads.roku.com
 identity-dev.ads.roku.com
 identity.ads.roku.com
+image.roku.com
 keysvc.cs.roku.com
 lagrange.logs.roku.com
 lat-services.api.data.roku.com
@@ -103,14 +106,17 @@ midland.logs.roku.com
 mobile.logs.roku.com
 navigation.sr.roku.com
 p.ads.roku.com
+p.ravm.tv
 pagead2.googlesyndication.com
 paolo.logs.roku.com
+plugins.qa.roku.com
+plugins.roku.com
 prod.mobile.roku.com
 raps-perf.ravm.tv
 raps.ravm.tv
 ravm.tv
 richmond.logs.roku.com
-roku.com
+*.roku.com
 rokutime.com
 rollingwood.logs.roku.com
 rxr.ravm.tv
