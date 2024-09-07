@@ -13,7 +13,6 @@
  camden.logs.roku.com
  cloudservices.roku.com
  cooper.logs.roku.com
- customer-feedbacks.web.roku.com
  delta-staging.ads.roku.com
  delta.ads.roku.com
  digdug-g2.logs.roku.com
@@ -69,7 +68,6 @@ amarillo.logs.roku.com
 amoeba-plus.web.roku.com
 amoeba.web.roku.com
 api.rpay.roku.com
-api2.sr.roku.com
 assets.sr.roku.com
 austin.logs.roku.com
 benjamin.logs.roku.com
@@ -146,18 +144,15 @@ api.rokutime.com
 api.rpay.roku.com
 api2.sr.roku.com
 captive.roku.com
-configsvc.cs.roku.com
-customer-feedbacks.web.roku.com
 display.ravm.tv
 gilbert.sb.roku.com
 hints.voice.roku.com
 image.roku.com
 images.sr.roku.com
 keysvc.cs.roku.com
-lat-services.api.data.roku.com
 ls.cti.roku.com
-p.ravm.tv
 plugins.qa.roku.com
 plugins.roku.com
 push.prod.netflix.com
 gilbert.sw.roku.com
+channels.roku.com
